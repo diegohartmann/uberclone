@@ -2,10 +2,9 @@
 
 ###Technology = {
     React Native,
-    Yarn,
     Navigation,
-    Redux,
-    Tailwind CSS,
+    Redux (Yarn),
+    Tailwind CSS (NPM),
     Google Autocomplete
 }
 
